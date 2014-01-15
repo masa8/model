@@ -1,4 +1,4 @@
-solid oosakajyo_ootemon
+solid oosakajyo_ootemon_shita
 facet normal -1.0 0.0 0.0
    outer loop
       vertex 0.0 20.0 20.0
@@ -41,31 +41,31 @@ facet normal -1.0 0.0 0.0
       vertex 0.0 30.0 10.0
    endloop
 endfacet
-facet normal 0.159617376893525 -0.957704261361147 0.239426065340287
+facet normal -0.159617376893525 0.957704261361147 -0.239426065340287
    outer loop
-      vertex 15.0 17.5 20.0
-      vertex 30.0 17.5 10.0
       vertex 30.0 20.0 20.0
+      vertex 30.0 17.5 10.0
+      vertex 15.0 17.5 20.0
    endloop
 endfacet
-facet normal -0.554700196225229 -1.83902898729872e-016 -0.832050294337843
+facet normal 0.554700196225229 1.83902898729872e-016 0.832050294337843
    outer loop
-      vertex 30.0 30.0 10.0
+      vertex 30.0 17.5 10.0
       vertex 15.0 22.5 20.0
+      vertex 15.0 17.5 20.0
+   endloop
+endfacet
+facet normal 0.554700196225229 1.83902898729872e-016 0.832050294337843
+   outer loop
+      vertex 15.0 22.5 20.0
+      vertex 30.0 30.0 10.0
       vertex 15.0 30.0 20.0
    endloop
 endfacet
-facet normal -0.554700196225229 -1.83902898729872e-016 -0.832050294337843
+facet normal 0.554700196225229 1.83902898729872e-016 0.832050294337843
    outer loop
+      vertex 30.0 30.0 10.0
       vertex 15.0 22.5 20.0
-      vertex 30.0 30.0 10.0
-      vertex 15.0 17.5 20.0
-   endloop
-endfacet
-facet normal -0.554700196225229 -1.83902898729872e-016 -0.832050294337843
-   outer loop
-      vertex 15.0 17.5 20.0
-      vertex 30.0 30.0 10.0
       vertex 30.0 17.5 10.0
    endloop
 endfacet
@@ -97,25 +97,25 @@ facet normal 0.554700196225229 2.54634782856745e-016 0.832050294337844
       vertex 30.0 0.0 10.0
    endloop
 endfacet
-facet normal 0.159617376893524 0.957704261361147 0.239426065340286
+facet normal -0.159617376893524 -0.957704261361147 -0.239426065340286
    outer loop
-      vertex 15.0 7.5 20.0
-      vertex 0.0 12.5 10.0
       vertex 0.0 10.0 20.0
-   endloop
-endfacet
-facet normal 0.554700196225229 1.75914356522601e-016 -0.832050294337844
-   outer loop
-      vertex 15.0 7.5 20.0
-      vertex 0.0 0.0 10.0
       vertex 0.0 12.5 10.0
+      vertex 15.0 7.5 20.0
    endloop
 endfacet
-facet normal 0.554700196225229 1.75914356522601e-016 -0.832050294337844
+facet normal -0.554700196225229 -1.75914356522601e-016 0.832050294337844
    outer loop
-      vertex 0.0 0.0 10.0
-      vertex 15.0 7.5 20.0
       vertex 15.0 0.0 20.0
+      vertex 0.0 12.5 10.0
+      vertex 0.0 0.0 10.0
+   endloop
+endfacet
+facet normal -0.554700196225229 -1.75914356522601e-016 0.832050294337844
+   outer loop
+      vertex 0.0 12.5 10.0
+      vertex 15.0 0.0 20.0
+      vertex 15.0 7.5 20.0
    endloop
 endfacet
 facet normal 0.0 0.0 -1.0
@@ -279,4 +279,4 @@ facet normal 0.0 0.0 1.0
       vertex 15.0 17.5 20.0
    endloop
 endfacet
-endsolid oosakajyo_ootemon
+endsolid oosakajyo_ootemon_shita

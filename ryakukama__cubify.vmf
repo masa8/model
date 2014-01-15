@@ -1,0 +1,21 @@
+Part Extents:
+43.2755 <= x <= 96.4245
+44.8536 <= y <= 94.8464
+0.0001 <= z <= 10.0001
+88 output triangles
+88 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+0 triangles reoriented
+0 unmatched triangle sides
+2 distinct shells:
+Shell volume: 2500	(num triangles: 44)
+43.2755 <= x <= 53.2755
+44.8536 <= y <= 79.8536
+0.0001 <= z <= 10.0001
+Shell volume: 2500	(num triangles: 44)
+86.4245 <= x <= 96.4245
+59.8464 <= y <= 94.8464
+0.0001 <= z <= 10.0001
+C:\Documents and Settings\kevin\github\model\ryakukama__cubify.stl was GOOD

@@ -1,0 +1,17 @@
+Part Extents:
+1.33402e-007 <= x <= 112.817
+-1.77636e-015 <= y <= 81.0202
+0.0001 <= z <= 8.96442
+95148 output triangles
+85435 input triangles
+76 degenerate sided triangles removed
+831 narrow-gap filling triangles created
+8958 wide-gap filling triangles created
+0 triangles reoriented
+9701 unmatched triangle sides
+1 distinct shell:
+Shell volume: 4449.92	(num triangles: 95148)
+1.33402e-007 <= x <= 112.817
+-1.77636e-015 <= y <= 81.0202
+0.0001 <= z <= 8.96442
+C:\Documents and Settings\kevin\github\model\sakurajima__cubify_cubify.stl was BAD

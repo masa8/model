@@ -1,0 +1,17 @@
+Part Extents:
+54.85 <= x <= 84.85
+54.85 <= y <= 84.85
+0.0001 <= z <= 10.0001
+92 output triangles
+92 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+0 triangles reoriented
+0 unmatched triangle sides
+1 distinct shell:
+Shell volume: 5301.05	(num triangles: 92)
+54.85 <= x <= 84.85
+54.85 <= y <= 84.85
+0.0001 <= z <= 10.0001
+C:\Documents and Settings\kevin\github\model\sizetest_ogi_cubify.stl was GOOD
