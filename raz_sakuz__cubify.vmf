@@ -1,0 +1,41 @@
+Part Extents:
+7.35 <= x <= 132.35
+29.85 <= y <= 109.85
+0.0001 <= z <= 11.9731
+7648 output triangles
+7025 input triangles
+0 degenerate sided triangles removed
+534 narrow-gap filling triangles created
+89 wide-gap filling triangles created
+554 triangles reoriented
+781 unmatched triangle sides
+7 distinct shells:
+Shell volume: -37408.5	(num triangles: 7626)
+7.35 <= x <= 132.35
+29.85 <= y <= 109.85
+0.0001 <= z <= 11.9731
+Shell volume: 6.53793e-008	(num triangles: 2)
+40.5492 <= x <= 41.3426
+84.9466 <= y <= 85.6471
+7.71738 <= z <= 8.12922
+Shell volume: -5.22679e-007	(num triangles: 12)
+66.7958 <= x <= 66.9981
+90.2321 <= y <= 103.252
+3.4406 <= z <= 4.15866
+Shell volume: 2.54113e-009	(num triangles: 2)
+66.7958 <= x <= 66.9131
+95.7063 <= y <= 103.252
+3.86248 <= z <= 4.15866
+Shell volume: -4.28554e-009	(num triangles: 2)
+27.8109 <= x <= 32.2319
+102.641 <= y <= 102.71
+6.27594 <= z <= 7.17882
+Shell volume: 1.28214e-007	(num triangles: 2)
+42.0605 <= x <= 42.8643
+90.4761 <= y <= 91.1767
+9.99834 <= z <= 10.5897
+Shell volume: -5.2108e-009	(num triangles: 2)
+49.1874 <= x <= 49.7207
+98.158 <= y <= 98.8547
+9.77322 <= z <= 10.2729
+F:\raz_sakuz__cubify.stl was BAD

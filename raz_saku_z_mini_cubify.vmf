@@ -1,0 +1,25 @@
+Part Extents:
+38.975 <= x <= 100.725
+29.85 <= y <= 109.85
+0.0001 <= z <= 11.9731
+7214 output triangles
+6625 input triangles
+0 degenerate sided triangles removed
+418 narrow-gap filling triangles created
+171 wide-gap filling triangles created
+571 triangles reoriented
+789 unmatched triangle sides
+3 distinct shells:
+Shell volume: -22095.7	(num triangles: 7210)
+38.975 <= x <= 100.725
+29.85 <= y <= 109.85
+0.0001 <= z <= 11.9731
+Shell volume: -3.38902e-008	(num triangles: 2)
+72.1742 <= x <= 72.9676
+84.9466 <= y <= 85.6471
+7.71738 <= z <= 8.12922
+Shell volume: 1.41881e-010	(num triangles: 2)
+59.4359 <= x <= 63.8569
+102.641 <= y <= 102.71
+6.27594 <= z <= 7.17882
+F:\raz_saku_z_mini_cubify.stl was BAD

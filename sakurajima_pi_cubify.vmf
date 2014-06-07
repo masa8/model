@@ -1,0 +1,17 @@
+Part Extents:
+7.35 <= x <= 132.35
+29.85 <= y <= 109.85
+0.0001 <= z <= 3.0001
+864 output triangles
+628 input triangles
+0 degenerate sided triangles removed
+145 narrow-gap filling triangles created
+91 wide-gap filling triangles created
+0 triangles reoriented
+220 unmatched triangle sides
+1 distinct shell:
+Shell volume: 22191.1	(num triangles: 864)
+7.35 <= x <= 132.35
+29.85 <= y <= 109.85
+0.0001 <= z <= 3.0001
+F:\sakurajima_pi_cubify.stl was BAD

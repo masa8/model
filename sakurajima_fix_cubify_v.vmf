@@ -1,0 +1,121 @@
+Part Extents:
+53.3711 <= x <= 86.3289
+46.1622 <= y <= 93.5378
+0.0001 <= z <= 12.472
+6524 output triangles
+6524 input triangles
+0 degenerate sided triangles removed
+0 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+0 triangles reoriented
+0 unmatched triangle sides
+27 distinct shells:
+Shell volume: 10595.6	(num triangles: 6466)
+53.3711 <= x <= 86.3289
+46.1622 <= y <= 93.5378
+0.0001 <= z <= 12.472
+Shell volume: -3.13e-008	(num triangles: 2)
+73.4026 <= x <= 73.7744
+70.7456 <= y <= 71.1723
+10.3354 <= z <= 10.6325
+Shell volume: -9.1597e-008	(num triangles: 2)
+83.1436 <= x <= 83.7964
+71.735 <= y <= 72.4841
+10.272 <= z <= 10.4884
+Shell volume: 5.1207e-008	(num triangles: 2)
+71.2525 <= x <= 71.624
+70.7131 <= y <= 71.1398
+8.30039 <= z <= 8.58634
+Shell volume: -6.05099e-008	(num triangles: 2)
+71.2517 <= x <= 71.9021
+52.2923 <= y <= 53.0388
+6.49894 <= z <= 6.75395
+Shell volume: 1.21117e-007	(num triangles: 2)
+67.2732 <= x <= 68.0025
+73.171 <= y <= 73.9975
+8.03898 <= z <= 8.46793
+Shell volume: -1.94389e-009	(num triangles: 2)
+54.784 <= x <= 55.2307
+46.1729 <= y <= 46.2803
+2.20066 <= z <= 2.23258
+Shell volume: -6.97279e-012	(num triangles: 6)
+54.0679 <= x <= 54.7849
+46.1622 <= y <= 46.2803
+2.14298 <= z <= 2.21995
+Shell volume: 1.17931e-010	(num triangles: 2)
+54.0554 <= x <= 54.0559
+46.9635 <= y <= 46.9995
+2.08793 <= z <= 2.11875
+Shell volume: -3.7778e-008	(num triangles: 2)
+70.5349 <= x <= 71.1853
+52.2815 <= y <= 53.028
+6.32298 <= z <= 6.53867
+Shell volume: -2.06152e-011	(num triangles: 4)
+82.0593 <= x <= 82.1822
+64.3766 <= y <= 64.404
+10.1176 <= z <= 10.1441
+Shell volume: 0	(num triangles: 2)
+82.1822 <= x <= 82.3028
+64.3415 <= y <= 64.3766
+10.0848 <= z <= 10.1176
+Shell volume: -6.0633e-012	(num triangles: 2)
+82.1822 <= x <= 82.2425
+64.359 <= y <= 64.3766
+10.1012 <= z <= 10.1176
+Shell volume: -6.62282e-008	(num triangles: 2)
+70.5357 <= x <= 70.9075
+70.7023 <= y <= 71.129
+7.76786 <= z <= 8.01457
+Shell volume: -4.17458e-008	(num triangles: 2)
+72.6858 <= x <= 73.0576
+70.7347 <= y <= 71.1615
+9.67869 <= z <= 10.0711
+Shell volume: 2.24827e-008	(num triangles: 2)
+69.8181 <= x <= 70.4685
+52.2707 <= y <= 53.0172
+6.08933 <= z <= 6.32469
+Shell volume: -3.85456e-008	(num triangles: 2)
+74.4785 <= x <= 75.208
+70.7673 <= y <= 71.5937
+10.756 <= z <= 11.053
+Shell volume: 7.39359e-009	(num triangles: 2)
+79.6228 <= x <= 79.9322
+63.291 <= y <= 63.4029
+10.899 <= z <= 11.009
+Shell volume: -5.89353e-009	(num triangles: 2)
+85.2185 <= x <= 85.9466
+71.7677 <= y <= 72.5071
+9.38096 <= z <= 9.68894
+Shell volume: -7.7187e-008	(num triangles: 2)
+69.8189 <= x <= 70.1907
+70.6915 <= y <= 71.1182
+7.3505 <= z <= 7.54673
+Shell volume: 3.09689e-008	(num triangles: 2)
+74.1194 <= x <= 74.4912
+70.7564 <= y <= 71.1832
+10.745 <= z <= 10.902
+Shell volume: -4.78831e-008	(num triangles: 2)
+67.4812 <= x <= 68.0279
+71.4883 <= y <= 72.1156
+6.96372 <= z <= 7.34281
+Shell volume: -3.66066e-008	(num triangles: 2)
+71.9693 <= x <= 72.3408
+70.7239 <= y <= 71.1507
+8.96391 <= z <= 9.32267
+Shell volume: 4.38122e-008	(num triangles: 2)
+69.1011 <= x <= 69.7515
+52.2599 <= y <= 53.0064
+5.80424 <= z <= 6.06901
+Shell volume: -4.67723e-009	(num triangles: 2)
+68.7444 <= x <= 69.4649
+71.2776 <= y <= 71.5071
+7.05265 <= z <= 7.21946
+Shell volume: -9.01006e-010	(num triangles: 2)
+82.3513 <= x <= 83.0796
+71.7241 <= y <= 72.4635
+10.5359 <= z <= 10.6645
+Shell volume: -4.06362e-009	(num triangles: 2)
+69.1021 <= x <= 69.4739
+70.6806 <= y <= 71.1074
+7.00498 <= z <= 7.15635
+F:\sakurajima_fix_cubify_v.stl was GOOD

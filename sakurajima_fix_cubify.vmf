@@ -1,0 +1,49 @@
+Part Extents:
+53.3711 <= x <= 86.3289
+46.1622 <= y <= 93.5378
+0.0001 <= z <= 12.472
+6524 output triangles
+6221 input triangles
+0 degenerate sided triangles removed
+303 narrow-gap filling triangles created
+0 wide-gap filling triangles created
+562 triangles reoriented
+653 unmatched triangle sides
+9 distinct shells:
+Shell volume: -10595.6	(num triangles: 6498)
+53.3711 <= x <= 86.3289
+46.1622 <= y <= 93.5378
+0.0001 <= z <= 12.472
+Shell volume: 1.14901e-007	(num triangles: 2)
+71.9402 <= x <= 72.6697
+48.9539 <= y <= 49.7912
+5.03593 <= z <= 5.44297
+Shell volume: 8.55398e-008	(num triangles: 4)
+75.1839 <= x <= 75.9121
+71.6154 <= y <= 72.3645
+11.1629 <= z <= 11.5566
+Shell volume: 1.86377e-007	(num triangles: 2)
+69.4485 <= x <= 70.178
+71.5288 <= y <= 72.3661
+7.68693 <= z <= 8.06095
+Shell volume: 5.45697e-012	(num triangles: 2)
+67.1753 <= x <= 67.1785
+92.211 <= y <= 92.421
+5.01133 <= z <= 5.06101
+Shell volume: 1.60146e-007	(num triangles: 4)
+85.2185 <= x <= 85.9466
+71.7677 <= y <= 72.5168
+9.35142 <= z <= 9.68894
+Shell volume: 4.0587e-006	(num triangles: 4)
+86.0867 <= x <= 86.1123
+60.8827 <= y <= 62.5573
+5.66795 <= z <= 9.62296
+Shell volume: -1.30846e-009	(num triangles: 4)
+74.4785 <= x <= 75.208
+70.7673 <= y <= 71.5937
+10.756 <= z <= 11.053
+Shell volume: -7.91733e-008	(num triangles: 4)
+82.3513 <= x <= 83.0796
+71.7241 <= y <= 72.4732
+10.5163 <= z <= 10.6645
+F:\sakurajima_fix_cubify.stl was BAD
